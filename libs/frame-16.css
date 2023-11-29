@@ -1,0 +1,258 @@
+.group-child18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-blue-200);
+  width: 100%;
+  height: 50.44rem;
+}
+.group-child19 {
+  position: absolute;
+  top: 1.25rem;
+  left: 34.75rem;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 53.19rem;
+  height: 48rem;
+}
+.contact-no,
+.name,
+.purpose-of-campaign {
+  position: absolute;
+  top: 12.44rem;
+  left: 40.88rem;
+  letter-spacing: 0.06em;
+  line-height: 143%;
+  font-weight: 500;
+}
+.contact-no,
+.purpose-of-campaign {
+  top: 19.19rem;
+  left: 40.94rem;
+}
+.purpose-of-campaign {
+  top: 25.94rem;
+  left: 40.56rem;
+}
+.group-child20,
+.group-child21,
+.group-child22 {
+  position: absolute;
+  top: 28.44rem;
+  left: 40.88rem;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 3px solid var(--color-blue-200);
+  box-sizing: border-box;
+  width: 23.25rem;
+  height: 9.56rem;
+  font-size: 80%;
+  letter-spacing: 0.06em;
+    line-height: 143%;
+    font-weight: 500;
+color: var(--color-darkblue-100);
+}
+.group-child21,
+.group-child22 {
+  top: 21.69rem;
+  border-radius: var(--br-8xs);
+  border: 2px solid var(--color-blue-200);
+  width: 13.69rem;
+  height: 2.44rem;
+}
+.group-child22 {
+  top: 14.94rem;
+}
+.contact-details {
+  position: absolute;
+  top: 4.81rem;
+  left: 45.38rem;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.06em;
+  line-height: 143%;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 32rem;
+  height: 6.13rem;
+}
+.get-in-touch-1 {
+  position: absolute;
+  top: 17.38rem;
+  left: 65.25rem;
+  width: 21.69rem;
+  height: 19.38rem;
+  object-fit: cover;
+}
+.rectangle-parent12 {
+  position: absolute;
+
+  left: 0;
+  width: 100%;
+  height: 50.44rem;
+}
+.wavy-bus-34-single-04-photoroo-icon {
+  position: absolute;
+  top: 0;
+  left: 9.06rem;
+  width: 15.25rem;
+  height: 13.31rem;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  top: 45.13rem;
+  left: 61.81rem;
+  background-color: var(--color-blue-200);
+  width: 11.31rem;
+  height: 3.25rem;
+  cursor: pointer;
+}
+.send {
+  position: absolute;
+  top: 45.69rem;
+  left: 65.69rem;
+  line-height: 143%;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.select-campaign-types {
+  position: absolute;
+  top: 0;
+  left: 0.94rem;
+  line-height: 102%;
+}
+.select-data-fields {
+  margin: 0;
+}
+.select-data-fields-container {
+  position: absolute;
+  top: 5.69rem;
+  left: 0.19rem;
+  line-height: 102%;
+  display: inline-block;
+  white-space: inherit;
+  width: 29.19rem;
+  height: 5.19rem;
+}
+.select-duration-of-container {
+  position: absolute;
+  top: 13.69rem;
+  left: 0.06rem;
+  line-height: 102%;
+  display: inline-block;
+  width: 25.56rem;
+  height: 5.25rem;
+}
+.contact-details1 {
+  top: 21.75rem;
+  left: 0.25rem;
+  color: var(--color-white);
+  height: 2.69rem;
+}
+.completed,
+.contact-details1,
+.text {
+  position: absolute;
+  line-height: 143%;
+  display: inline-block;
+  width: 29.19rem;
+}
+.completed {
+  top: 27.25rem;
+  left: 0;
+  height: 2.69rem;
+}
+.text {
+  top: 23.69rem;
+  left: 0.25rem;
+  font-family: var(--font-rubik);
+  color: var(--color-white);
+  height: 5.19rem;
+}
+.select-campaign-types-parent {
+  position: absolute;
+  top: 0;
+  left: 3.5rem;
+  width: 29.44rem;
+  height: 29.94rem;
+}
+.campaign-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2.5rem;
+  height: 2.38rem;
+  object-fit: cover;
+}
+.communicate-1-icon,
+.flag-1-icon,
+.hourglass-1-icon,
+.marketing-1-1 {
+  position: absolute;
+  top: 13.56rem;
+  left: 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: cover;
+}
+.communicate-1-icon,
+.flag-1-icon,
+.marketing-1-1 {
+  top: 21.94rem;
+}
+.flag-1-icon,
+.marketing-1-1 {
+  top: 27.44rem;
+}
+.marketing-1-1 {
+  top: 5.69rem;
+}
+.group-parent4 {
+  position: absolute;
+  top: 17.19rem;
+  left: 3.38rem;
+  width: 32.94rem;
+  height: 29.94rem;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-300);
+}
+.mditick-all-icon,
+.mditick-all-icon1,
+.mditick-all-icon2 {
+  position: absolute;
+  top: 17.31rem;
+  left: 29.81rem;
+  width: 2.13rem;
+  height: 2.13rem;
+  overflow: hidden;
+}
+.mditick-all-icon1,
+.mditick-all-icon2 {
+  top: 23.06rem;
+  left: 29.88rem;
+}
+.mditick-all-icon2 {
+  top: 30.94rem;
+  left: 25.06rem;
+}
+.go-back1 {
+  position: absolute;
+  top: 45.69rem;
+  left: 53.31rem;
+  font-size: var(--font-size-13xl);
+  text-decoration: underline;
+  line-height: 101%;
+  font-weight: 600;
+  color: var(--color-blue-100);
+  cursor: pointer;
+}
+.group-root {
+  position: relative;
+  width: 100%;
+  height: 51.31rem;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkblue-100);
+  font-family: var(--font-kanit);
+}

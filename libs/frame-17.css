@@ -1,0 +1,72 @@
+.group-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-blue-200);
+  width: 100%;
+  height: 50.44rem;
+}
+.removebg-preview-1-icon13 {
+  position: absolute;
+  top: 7.5rem;
+  left: 30rem;
+  width: 30rem;
+  height: 30rem;
+  object-fit: cover;
+}
+.activatr-team-will {
+  position: absolute;
+  top: 2.25rem;
+  left: 12.56rem;
+  letter-spacing: 0.06em;
+  line-height: 143%;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 64.94rem;
+  height: 6.13rem;
+}
+.httpslottiefilescomanimat-icon {
+  position: absolute;
+  top: 9.69rem;
+  left: 26.75rem;
+  width: 34.69rem;
+  height: 19.5rem;
+  object-fit: cover;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50.44rem;
+}
+.frame-child4 {
+  position: absolute;
+  top: 42rem;
+  left: 36.69rem;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 16.69rem;
+  height: 4.44rem;
+  cursor: pointer;
+}
+.done {
+  position: absolute;
+  top: 42.38rem;
+  left: 41.75rem;
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.01em;
+  line-height: 143%;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-blue-200);
+}
+.group-wrapper {
+  position: relative;
+  width: 100%;
+  height: 50.44rem;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-kanit);
+}
