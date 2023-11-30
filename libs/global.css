@@ -18,16 +18,16 @@ body {
   /* font sizes */
   --font-size-17xl: 2.35vw;
   --font-size-5xl: 1.35vw;
-  --font-size-45xl: 4rem;
+  --font-size-45xl: 4vw;
   --font-size-21xl: 2.5rem;
   --font-size-81xl: 6.25vw;
   --font-size-13xl: 2.3vw;
-  --font-size-29xl: 3rem;
+  --font-size-29xl: 3vw;
   --font-size-31xl: 3.13vw;
   --font-size-sm: 0.88rem;
   --font-size-3xs-3: 0.58rem;
   --font-size-51xl: 5.5vw;
-  --font-size-base: 1rem;
+  --font-size-base: 1.5vw;
 
   /* Colors */
   --color-deeppink-100: #ff018f;
@@ -62,10 +62,10 @@ body {
   /* Border radiuses */
   --br-8xs: 5px;
   --br-31xl: 50px;
-  --br-mini: 15px;
+  --br-mini: 1vw;
   --br-11xl: 30px;
   --br-58xl-5: 77.5px;
   --br-11xs: 2px;
-  --br-xl: 2.2vh;
+  --br-xl: 2.2vw;
   --br-3xs: 10px;
 }
