@@ -1562,3 +1562,8 @@ justify-content: center;
     height: 20rem; /*new height for screen <768px*/
   }
 }
+@media only screen and (max-width: 450px) {
+  .website {
+  font-size-5xl: 1.85vw;
+  }
+}
