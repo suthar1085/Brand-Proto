@@ -869,8 +869,8 @@ position: relative;
   height: 15.56rem;
 }
 .copyright-vistaar-digital {
-  /* position: absolute; */
-  bottom: 1.1rem;
+  position: relative;
+  bottom: 0.2vw;
   left: 14%;
   letter-spacing: 0.02em;
   line-height: 143%;
@@ -887,8 +887,8 @@ position: relative;
   object-fit: contain;
 }
 .website-child9 {
-  /* position: absolute; */
-  bottom: 3.86rem;
+  position: relative;
+  bottom: 0.5vw;
   left: 2%;
   border-top: 1px solid var(--color-white);
   box-sizing: border-box;
@@ -1295,12 +1295,18 @@ position: relative;
     width: 100%;
 }
 .contactvistaardigitalcom,
-.vistaardigital {
+.vistaardigital,
+.paras-business-center-container {
   top: 18%;
   left: 22%;
   line-height: 143%;
   text-align: left;
   font-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1vw;
 }
 .vistaardigital {
   top: 38%;
@@ -1322,6 +1328,7 @@ position: relative;
 .mdiaddress-marker-icon {
   top: 20%;
   left: 55%;
+  width: 3vw;
 }
 .drive-sales5 {
   /*  top: 1.75rem;  */
@@ -1377,7 +1384,7 @@ position: relative;
   color: var(--color-white);
   text-align: left;
   display: inline-block;
-  width: 40%;
+  width: 100%;
   font-size: 100%;
 }
 .metric-measures1,
@@ -1500,9 +1507,8 @@ justify-content: center;
 
 @media only screen and (max-width: 770px) {
   .rectangle-footer {
-    top: 133.37rem;
     width: 100%; /*new width for screen <768px*/
-    height: 30%; /* new height for screen <768px*/
+    height: 8rem; /* new height for screen <768px*/
   }
 }
 
@@ -1510,5 +1516,49 @@ justify-content: center;
   .frame-div {
     width: 100%; /*new width for screen <768px*/
     height: 32rem; /*new height for screen <768px*/
+  }
+}
+
+/************************************************* 480px @media *****************************/
+
+@media only screen and (max-width: 450px) {
+  .website-child8 {
+    height: 20rem;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .frame-child6 {
+    width: 100%; /*new width for screen <768px*/
+    height: 17rem; /* new height for screen <768px*/
+  }
+
+}
+
+@media only screen and (max-width: 450px) {
+  .component-11 {
+    width: 100%; /*new width for screen <768px*/
+    height: 17rem; /* new height for screen <768px*/
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .frame-child5 {
+    width: 100%; /*new width for screen <768px*/
+    height: 18rem; /* new height for screen <768px*/
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .rectangle-footer {
+    width: 100%; /*new width for screen <768px*/
+    height: 6rem; /* new height for screen <768px*/
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .frame-div {
+    width: 100%; /*new width for screen <768px*/
+    height: 20rem; /*new height for screen <768px*/
   }
 }
