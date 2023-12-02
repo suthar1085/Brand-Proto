@@ -1,373 +1,47 @@
-.know-more-campaign-ideas-child {
-  position: absolute;
-  top: 13.38rem;
-  left: 82.13rem;
-  background-color: var(--color-goldenrod);
-  width: 8.31rem;
-  height: 46.63rem;
-}
-.know-more-campaign-ideas-item {
-  position: absolute;
-  top: 72rem;
-  left: 0;
-  background-color: var(--color-goldenrod);
-  width: 32.38rem;
-  height: 35.38rem;
-}
-.know-more-campaign-ideas-inner {
-  position: absolute;
-  top: 139.56rem;
-  left: 43.75rem;
-  background-color: var(--color-goldenrod);
-  width: 46.69rem;
-  height: 11.88rem;
-}
-.know-more-campaign-ideas-child1 {
-  position: absolute;
-  top: 204.44rem;
-  left: 0;
-  background-color: var(--color-goldenrod);
-  width: 35.94rem;
-  height: 21.94rem;
-}
-.know-more-campaign-ideas-child2,
-.know-more-campaign-ideas-child3 {
-  position: absolute;
-  top: 262.44rem;
-  left: 46.5rem;
-  background-color: var(--color-goldenrod);
-  width: 36.13rem;
-  height: 22.88rem;
-}
-.know-more-campaign-ideas-child3 {
-  top: 192.75rem;
-  left: 38rem;
-  width: 4.81rem;
-  height: 16.5rem;
-}
-.know-more-campaign-ideas-child4,
-.know-more-campaign-ideas-child5 {
-  position: absolute;
-  top: 106.13rem;
-  left: 8.5rem;
-  background-color: var(--color-goldenrod);
-  width: 36.13rem;
-  height: 6.94rem;
-}
-.know-more-campaign-ideas-child5 {
-  top: 47.63rem;
-  left: 44.69rem;
-  width: 30.5rem;
-}
-.pledge {
-  position: absolute;
-  top: 70.63rem;
-  left: 50.44rem;
-  letter-spacing: 0.06em;
-  line-height: 143%;
-}
-.educational-training,
-.gamification,
-.quiz,
-.survey,
-.video-quiz {
-  position: absolute;
-  top: 133.81rem;
-  left: 5.88rem;
-  letter-spacing: 0.06em;
-  line-height: 143%;
-}
-.educational-training,
-.gamification,
-.quiz,
-.video-quiz {
-  top: 182.81rem;
-  left: 51.88rem;
-}
-.educational-training,
-.gamification,
-.video-quiz {
-  top: 246.31rem;
-  left: 6.06rem;
-}
-.educational-training,
-.gamification {
-  top: 310.75rem;
-  left: 50.31rem;
-}
-.educational-training {
-  top: 377.19rem;
-  left: 5.88rem;
-}
-.know-more-campaign-ideas-child6 {
-  position: absolute;
-  top: 246.31rem;
-  left: 79.81rem;
-  background-color: var(--color-goldenrod);
-  width: 10.63rem;
-  height: 21.94rem;
-}
-.know-more-campaign-ideas-child7 {
-  position: absolute;
-  top: 310.81rem;
-  left: 0;
-  background-color: var(--color-goldenrod);
-  width: 20.75rem;
-  height: 19.81rem;
-}
-.know-more-campaign-ideas-child8 {
-  position: absolute;
-  top: 326.75rem;
-  left: 30.5rem;
-  background-color: var(--color-goldenrod);
-  width: 10.63rem;
-  height: 21.94rem;
-}
-.know-more-campaign-ideas-child10,
-.know-more-campaign-ideas-child9 {
-  position: absolute;
-  top: 375.19rem;
-  left: 65.63rem;
-  background-color: var(--color-goldenrod);
-  width: 21.19rem;
-  height: 7.81rem;
-}
-.know-more-campaign-ideas-child10 {
-  top: 404.19rem;
-  left: 55rem;
-  height: 10.63rem;
-}
-.photo-activity-pictivatr {
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz@6..12&family=Raleway&family=Rubik+Mono+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+* {
   margin: 0;
+  padding: 0;
 }
-.photo-activity-pictivatr-container {
-  position: absolute;
-  top: 14.88rem;
-  left: 3.56rem;
-  letter-spacing: 0.06em;
-  line-height: 143%;
-  display: inline-block;
-  text-align: center;
-  width: 39.25rem;
-  height: 12.06rem;
+.know-more-navbar {
+    width: 95%;
+    height: 11vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
 }
-.know-more-campaign-ideas-child11,
-.know-more-campaign-ideas-child12 {
-  position: absolute;
-  top: 26.94rem;
-  left: 50.94rem;
-  background-color: var(--color-blue-200);
-  width: 31.5rem;
-  height: 24.13rem;
-}
-.know-more-campaign-ideas-child12 {
-  top: 81.31rem;
-  left: 9.5rem;
-  width: 31.25rem;
-  height: 28.25rem;
-}
-.group-15-icon {
-  position: absolute;
-  top: 83rem;
-  left: 13.38rem;
-  width: 22.44rem;
-  height: 26.59rem;
-}
-.know-more-campaign-ideas-child13 {
-  position: absolute;
-  top: 150.69rem;
-  left: 46.69rem;
-  background-color: var(--color-goldenrod);
-  width: 7.5rem;
-  height: 14.94rem;
-}
-.know-more-campaign-ideas-child14,
-.know-more-campaign-ideas-child15 {
-  position: absolute;
-  top: 137.63rem;
-  left: 51.31rem;
-  background-color: var(--color-blue-200);
-  width: 31.25rem;
-  height: 28.25rem;
-}
-.know-more-campaign-ideas-child15 {
-  top: 254.13rem;
-  left: 53.88rem;
-}
-.removebg-preview-1-icon {
-  position: absolute;
-  top: 136.94rem;
-  left: 53rem;
-  width: 27.5rem;
-  height: 27.5rem;
-  object-fit: cover;
-}
-.know-more-campaign-ideas-child16 {
-  position: absolute;
-  top: 189.75rem;
-  left: 8.06rem;
-  background-color: var(--color-blue-200);
-  width: 31.25rem;
-  height: 28.81rem;
-}
-.removebg-preview-1-icon1,
-.removebg-preview-1-icon2 {
-  position: absolute;
-  top: 188.56rem;
-  left: 8.69rem;
-  width: 30rem;
-  height: 30rem;
-  object-fit: cover;
-}
-.removebg-preview-1-icon2 {
-  top: 254.94rem;
-  left: 55.44rem;
-  width: 28.13rem;
-  height: 29.25rem;
-}
-.know-more-campaign-ideas-child17 {
-  position: absolute;
-  top: 316.5rem;
-  left: 4.31rem;
-  background-color: var(--color-blue-200);
-  width: 31.25rem;
-  height: 28.25rem;
-}
-.gambler-and-game-of-luck-fortu-icon {
-  position: absolute;
-  top: 317.25rem;
-  left: 8.75rem;
-  width: 25.94rem;
-  height: 26.69rem;
-  object-fit: cover;
-}
-.istockphoto-1224464061-612x612-icon {
-  position: absolute;
-  top: 22.5rem;
-  left: 46.25rem;
-  width: 45.19rem;
-  height: 30.13rem;
-  object-fit: cover;
-}
-.know-more-campaign-ideas-child18 {
-  position: absolute;
-  top: 383rem;
-  left: 60.56rem;
-  background-color: var(--color-blue-200);
-  width: 31.25rem;
-  height: 28.25rem;
-}
-.removebg-preview-1-icon3 {
-  position: absolute;
-  top: 383.56rem;
-  left: 62.69rem;
-  width: 27.06rem;
-  height: 27.06rem;
-  object-fit: cover;
-}
-.lorem-ipsum-dolor,
-.lorem-ipsum-dolor1 {
-  font-size: var(--font-size-13xl);
-  font-weight: 300;
-  color: var(--color-gray-200);
-  display: inline-block;
-  width: 34.69rem;
-}
-.lorem-ipsum-dolor {
-  position: absolute;
-  top: 29.69rem;
-  left: 4.88rem;
-  letter-spacing: 0.02em;
-  line-height: 143%;
-}
-.lorem-ipsum-dolor1 {
-  top: 79.94rem;
-  left: 50.94rem;
-}
-.lorem-ipsum-dolor1,
-.lorem-ipsum-dolor2,
-.lorem-ipsum-dolor3 {
-  position: absolute;
-  letter-spacing: 0.02em;
-  line-height: 143%;
-}
-.lorem-ipsum-dolor2 {
-  top: 140.44rem;
-  left: 6rem;
-  font-size: var(--font-size-13xl);
-  font-weight: 300;
-  color: var(--color-gray-200);
-  display: inline-block;
-  width: 34.69rem;
-}
-.lorem-ipsum-dolor3 {
-  top: 192.44rem;
-  left: 51.88rem;
-}
-.lorem-ipsum-dolor3,
-.lorem-ipsum-dolor4,
-.lorem-ipsum-dolor5 {
-  font-size: var(--font-size-13xl);
-  font-weight: 300;
-  color: var(--color-gray-200);
-  display: inline-block;
-  width: 34.69rem;
-}
-.lorem-ipsum-dolor4 {
-  position: absolute;
-  top: 254.38rem;
-  left: 6.06rem;
-  letter-spacing: 0.02em;
-  line-height: 143%;
-}
-.lorem-ipsum-dolor5 {
-  top: 320.25rem;
-  left: 50.44rem;
-}
-.campaign-ideas,
-.lorem-ipsum-dolor5,
-.lorem-ipsum-dolor6 {
-  position: absolute;
-  letter-spacing: 0.02em;
-  line-height: 143%;
-}
-.lorem-ipsum-dolor6 {
-  top: 385.13rem;
-  left: 5.88rem;
-  font-size: var(--font-size-13xl);
-  font-weight: 300;
-  color: var(--color-gray-200);
-  display: inline-block;
-  width: 34.69rem;
-}
+
 .campaign-ideas {
-  top: 1.69rem;
-  left: 22.38rem;
-  font-size: var(--font-size-81xl);
-  font-weight: 600;
-  font-family: var(--font-rubik);
-  color: var(--color-deeppink-100);
+    position: relative;
+    left: -16vw;
+    font-size: var(--font-size-81xl);
+    font-weight: 600;
+    font-family: var(--font-rubik);
+    color: var(--color-deeppink-100);
 }
+
 .image-83-icon {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 13.88rem;
-  height: 13.88rem;
-  object-fit: cover;
+    position: relative;
+    width: 15vw;
+    object-fit: contain;
 }
-.activatr {
-  position: absolute;
-  top: 9.19rem;
-  left: 3.38rem;
-  font-size: var(--font-size-5xl);
-  letter-spacing: -0.04em;
-  line-height: 143%;
-  text-transform: uppercase;
-  font-family: var(--font-nothing-you-could-do);
-  color: var(--color-black);
-  text-align: center;
+.activatr{
+position: relative;
+    top: -3vw;
+    font-size: var(--font-size-5xl);
+    letter-spacing: -0.04em;
+    line-height: 143%;
+    text-transform: uppercase;
+    font-family: var(--font-nothing-you-could-do);
+    color: var(--color-black);
+    text-align: center;
 }
+
 .group-icon {
     position: fixed;
     top: 50%;
@@ -376,14 +50,91 @@
     height: auto;
     cursor: pointer;
 }
-.know-more-campaign-ideas {
-  position: relative;
-  background-color: var(--color-white);
+
+.know-more-navbar h1 {
+  font-family: "Rubik Mono One", monospace;
+  color: #ff018f;
+  font-weight: bold;
+  font-size: 5vw;
+  letter-spacing: 0.5vw;
+  text-align: center;
   width: 100%;
-  height: 428.5rem;
-  overflow: hidden;
-  text-align: left;
-  font-size: var(--font-size-45xl);
-  color: var(--color-blue-200);
-  font-family: var(--font-kanit);
+}
+.Idea1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  padding: 50px 0px;
+}
+.Idea1-left-container {
+  width: 50%;
+  padding: 3vw;
+}
+.Idea1-left-container h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-size: 4vw;
+  color: #4700ff;
+  text-align: center;
+  width: 100%;
+}
+.Idea1-left-container p {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-size: 3vw;
+  color: #0e0e0e;
+  text-align: justify;
+  width: 100%;
+  line-height: 3.5vw;;
+}
+.Idea1-right-container {
+  width: 50%;
+  text-align: right;
+}
+.Idea1-right-container img {
+  width: 100%;
+  /* height: 650px; */
+  object-fit: contain;
+}
+.Idea2 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  padding: 50px 0px;
+}
+.Idea2-left-container {
+  width: 50%;
+}
+.Idea2-left-container img {
+  width: 100%;
+  object-fit: contain;
+}
+.Idea2-right-container {
+  width: 50%;
+  padding: 3vw;
+}
+.Idea2-right-container h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-size: 4vw;
+  color: #4700ff;
+  text-align: center;
+  width: 100%;
+}
+.Idea2-right-container p {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-size: 3vw;
+  color: #0e0e0e;
+  text-align: justify;
+  width: 100%;
+  line-height: 3.5vw;;
+}
+
+@media only screen and (max-width: 450px) {
+  .activatr {
+  --font-size-5xl: 1.85vw;
+  }
 }
