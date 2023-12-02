@@ -1564,6 +1564,6 @@ justify-content: center;
 }
 @media only screen and (max-width: 450px) {
   .website {
-  font-size-5xl: 1.85vw;
+  --font-size-5xl: 1.85vw;
   }
 }
