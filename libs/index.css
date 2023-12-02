@@ -802,10 +802,10 @@ top: 13%;
     z-index: 1;
 }
 .rectangle-icon29 {
-position: relative;
-    top: -5%;
+    position: relative;
+    top: -20%;
     left: -64.2%;
-    width: 315%;
+    width: 330%;
     height: auto;
     object-fit: contain;
 }
@@ -1565,5 +1565,8 @@ justify-content: center;
 @media only screen and (max-width: 450px) {
   .website {
   --font-size-5xl: 1.85vw;
+  }
+  .metric-measures1, .metric-measures2 {
+  --font-size-45xl: 5vw;
   }
 }
