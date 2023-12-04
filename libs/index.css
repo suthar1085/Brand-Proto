@@ -298,9 +298,8 @@
   justify-content: space-evenly;
 }
 .select-campaign-type {
-  /* position: absolute; */
-  top: 234.94rem;
-  left: 45.19rem;
+  position: relative;
+  top: 2%;
   font-size: var(--font-size-17xl);
   letter-spacing: 0.06em;
   line-height: 143%;
@@ -309,7 +308,7 @@
   align-items: center;
   justify-content: center;
   color: var(--color-darkblue-100);
-  width: 100%;
+  width: 80%;
   height: 10%;
 }
 
@@ -357,10 +356,11 @@
   line-height: 131%;
   font-weight: 600;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   flex-direction: column;
-  height: 8vw;
+  height: 9vw;
   width: 70%;
+  text-align: center;
 }
 .website-child1,
 .website-child2,
@@ -389,8 +389,8 @@
  /* position: absolute; */
   top: 252.69rem;
   left: 39.63rem;
-  width: 100%;
-  height: 80%;
+/*  width: 100%;*/
+  height: 100%;
   object-fit: contain;
 }
 .group-child38 {
@@ -412,7 +412,7 @@
   /* position: absolute; */
   top: 0.29rem;
   left: 0;
-  width: 100%;
+  /*width: 100%;*/
   height: 80%;
   object-fit: contain;
 }
@@ -458,8 +458,7 @@
 .icon {
   /* position: absolute; */
   top: 253.25rem;
-  width: 100%;
-  height: 80%;
+ /* width: 100%; */
   height: 100%;
   object-fit: contain;
 }
@@ -499,19 +498,26 @@
   /* /* position: absolute; */*/
   top: 239.94rem;
   left: 41.69rem;
-  width: 100%;
-  height: 80%;
+ /* width: 100%;*/
+  height: 100%;
   object-fit: contain;
 }
 .icon1,
 .removal-1-icon {
-  height: 80%;
+  height: 100%;
+object-fit: contain;
 }
+
+.icon1 {
+  height: 80%;
+object-fit: contain;
+}
+
 .removal-1-icon {
   top: 253.56rem;
   left: 55.56rem;
-  width: 100%;
-  height: 80%;
+  /*width: 100%;*/
+  height: 100%;
 }
 .frame-icon {
   /* position: absolute; */
