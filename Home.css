@@ -89,7 +89,7 @@
   color: #4a0292;
 }
 .stroke-div {
-  background-image: url("./assets/stroke.png");
+  background-image: url("./public/stroke.png");
   object-fit: contain;
   background-repeat: no-repeat;
   background-position: right;
@@ -177,6 +177,9 @@
 }
 #imageContainer {
   overflow: hidden;
+  height: 100%;
+  position: relative;
+  top: -5%;
 }
 .imageWrapper {
   width: 100%;
@@ -192,23 +195,32 @@
   margin: auto;
 }
 .image {
-  width: 85%;
-  height: auto;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
   transition: transform 1s ease-in-out;
 }
 .know-more-container {
   text-align: center;
+  position: relative;
+    height: 10%;
+    top: -5%;
 }
 .btn-know-more {
-  border-radius: 15px;
-  background-color: #f3cb3b;
-  padding: 10px 20px;
-  border: none;
-  font-family: "Kanit", sans-serif;
-  font-weight: 600;
-  font-size: 48px;
-  color: #000;
-  width: 25%;
+  bottom: 2.81rem;
+  /* left: 34.63rem; */
+  border-radius: var(--br-mini);
+  background-color: var(--color-goldenrod);
+  width: 20vw;
+  height: 4.7vw;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.01em;
+  line-height: 143%;
+  font-weight: 500;
+  font-family: var(--font-kanit);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
 }
 .metric-measures-container {
   width: 100%;
@@ -276,7 +288,7 @@
   line-height: 6vw;
 }
 .metric-measures-card p {
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-family: "Kanit", sans-serif;
   font-weight: 600;
 }
@@ -308,7 +320,7 @@ display: flex;
   width: 80%;
 }
 .metric-measures-card-ellipse {
-    background-image: url(./assets/Ellipse.svg);
+    background-image: url(./public/Ellipse.svg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 90%;
@@ -536,7 +548,7 @@ display: flex;
   left: 20%;
 }
 .metric-measures-card-ellipse-metric-4 {
-  background-image: url("./assets/Ellipse34.svg");
+  background-image: url("./public/Ellipse34.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
@@ -547,7 +559,7 @@ height: 40%;
     justify-content: center;
 }
 .metric-measures-card-ellipse-metric5 {
-  background-image: url("./assets/Ellipse35.svg");
+  background-image: url("./public/Ellipse35.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;

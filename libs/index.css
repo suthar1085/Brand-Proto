@@ -964,22 +964,6 @@ position: relative;
   cursor: pointer;
   /* position: absolute; */
 }
-.website-child10 {
-  bottom: 2.81rem;
-  /* left: 34.63rem; */
-  border-radius: var(--br-mini);
-  background-color: var(--color-goldenrod);
-  width: 20vw;
-  height: 4.7vw;
-  font-size: var(--font-size-29xl);
-  letter-spacing: 0.01em;
-  line-height: 143%;
-  font-weight: 500;
-  font-family: var(--font-kanit);
-  color: var(--color-black);
-  text-align: center;
-  display: inline-block;
-}
 .instance-child3,
 .instance-child4 {
   /* position: absolute; */
@@ -1454,6 +1438,7 @@ display: flex;
 #title{
 display: grid;
 width: 100%;
+height: 10%;
 grid-template-columns: 100% 100%;
 align-content: center;
 align-items: center;

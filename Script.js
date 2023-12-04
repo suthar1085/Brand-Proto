@@ -7,13 +7,13 @@ document.addEventListener("DOMContentLoaded", function () {
   const imageContainer = document.getElementById("imageContainer");
 
   const images = [
-    "./assets/Campaign1.png",
-    "./assets/Campaign2.png",
-    "./assets/Campaign3.png",
-    "./assets/Campaign4.png",
-    "./assets/Campaign5.png",
-    "./assets/Campaign6.png",
-    "./assets/Campaign7.png",
+    "./public/Campaign1.png",
+    "./public/Campaign2.png",
+    "./public/Campaign3.png",
+    "./public/Campaign4.png",
+    "./public/Campaign5.png",
+    "./public/Campaign6.png",
+    "./public/Campaign7.png",
   ];
   let currentIndex = 0;
 
@@ -341,7 +341,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function redirectToOtherPage() {
   // Your redirection logic
-  window.location.href = "./KnowMore.html";
+  window.location.href = "libs/know-more-campaign-ideas.html";
 }
 
 document.addEventListener("DOMContentLoaded", function () {
