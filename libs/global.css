@@ -60,7 +60,7 @@ body {
   --padding-11xs-5: 0.09rem;
 
   /* Border radiuses */
-  --br-8xs: 5px;
+  --br-8xs: 0.6vw;
   --br-31xl: 50px;
   --br-mini: 1vw;
   --br-11xl: 30px;
