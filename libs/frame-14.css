@@ -1,0 +1,47 @@
+
+/********************************************************************/
+.mditick-all-icon5 {
+/*  position: absolute;*/
+  top: 16.63rem;
+  left: 29.25rem;
+  width: 3vw;
+  overflow: hidden;
+}
+/*******************************************************************/
+.go-back3 {
+  /*position: absolute;*/
+  top: 45.06rem;
+  left: 54.31rem;
+  font-size: var(--font-size-13xl);
+  text-decoration: underline;
+  line-height: 101%;
+  font-weight: 600;
+  color: var(--color-blue-100);
+  cursor: pointer;
+}
+
+.website-inner{
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-kanit);
+    height: 100vh;
+    background-color: var(--color-blue-200);
+}
+
+
+.check{
+    position: absolute;
+    top: 4%;
+    right: 1%;
+    width: 2vw;
+    height: 2.1vh;
+}
+
+@media only screen and (max-width: 450px) {
+.check {
+   right: -2%;
+    top: -10%;
+  }
+}
+/************************************************************************/

@@ -1,0 +1,89 @@
+/**************************************************************************************/
+
+.website-inner{
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-kanit);
+    height: 100vh;
+    background-color: var(--color-blue-200);
+}
+
+.get-in-touch-1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 45%;
+
+    object-fit: contain;
+}
+#name, #contact-no{
+    position: relative;
+    letter-spacing: 0.06em;
+    line-height: 143%;
+    font-weight: 500;
+    width: 14vw;
+    height: 2vw;
+}
+
+#purpose-of-campaign{
+border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    border: 0.25vw solid var(--color-blue-200);
+    box-sizing: border-box;
+    width: 22vw;
+    height: 13vw;
+    font-size: 80%;
+    letter-spacing: 0.06em;
+    line-height: 143%;
+    font-weight: 500;
+    color: var(--color-darkblue-100);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkblue-100);
+    font-family: var(--font-kanit);
+    gap: 1vw;
+
+}
+
+#content {
+display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+height: 80%;
+width: 90%;
+overflow: auto;
+}
+
+input{
+    border-radius: var(--br-8xs);
+    border: 0.25vw solid var(--color-blue-200);
+}
+
+.go-back3 {
+  /*position: absolute;*/
+  top: 45.06rem;
+  left: 54.31rem;
+  font-size: var(--font-size-13xl);
+  text-decoration: underline;
+  line-height: 101%;
+  font-weight: 600;
+  color: var(--color-blue-100);
+  cursor: pointer;
+}
+
+.mditick-all-icon5 {
+    /* position: absolute; */
+    top: 16.63rem;
+    left: 29.25rem;
+    width: 3vw;
+    overflow: hidden;
+}

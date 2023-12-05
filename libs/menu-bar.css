@@ -1,0 +1,86 @@
+.campaign-ideas1,
+.create-camapaign,
+.home,
+.metric-measures {
+ /* position: absolute; */
+  top: 18.38rem;
+  left: 6.81rem;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  font-weight: 600;
+  font-size: 5.5vw;
+}
+.create-camapaign,
+.home,
+.metric-measures {
+  top: 10.75rem;
+  left: 7.06rem;
+}
+.create-camapaign,
+.metric-measures {
+  top: 26rem;
+  left: 6.88rem;
+}
+.create-camapaign {
+  top: 33.69rem;
+  left: 6.81rem;
+}
+.menu-bar-child {
+/*  position: absolute; */
+  top: -0.16rem;
+  left: 85.25rem;
+  border-right: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 0.19rem;
+  height: 100%;
+}
+.entypocross-icon {
+ /* position: absolute; */
+  top: 26.13rem;
+  left: 85.25rem;
+  width: 70%;
+  height: fit-content;
+  overflow: hidden;
+}
+.menu-bar-item {
+  /* position: absolute; */
+  top: 16.75rem;
+  left: 6.25rem;
+  width: 23vw;
+  height: fit-content;
+}
+.menu-bar {
+  position: relative;
+  background-color: var(--color-deeppink-200);
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-kanit);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#sidebar{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#content{
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 5%;
+}

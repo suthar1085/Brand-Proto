@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Nunito+Sans:opsz@6..12&family=Raleway&family=Rubik+Mono+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.know-more-navbar {
+    width: 95%;
+    height: 11vw;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.campaign-ideas {
+    position: relative;
+    left: -16vw;
+    font-size: var(--font-size-81xl);
+    font-weight: 600;
+    font-family: var(--font-rubik);
+    color: var(--color-deeppink-100);
+}
+
+.image-83-icon {
+    position: relative;
+    width: 15vw;
+    object-fit: contain;
+}
+.activatr{
+position: relative;
+    top: -3vw;
+    font-size: var(--font-size-5xl);
+    letter-spacing: -0.04em;
+    line-height: 143%;
+    text-transform: uppercase;
+    font-family: var(--font-nothing-you-could-do);
+    color: var(--color-black);
+    text-align: center;
+}
+
+.group-icon {
+    position: fixed;
+    top: 50%;
+    right: 2%;
+    width: 6vw;
+    height: auto;
+    cursor: pointer;
+}
+
+.know-more-navbar h1 {
+  font-family: "Rubik Mono One", monospace;
+  color: #ff018f;
+  font-weight: bold;
+  font-size: 5vw;
+  letter-spacing: 0.5vw;
+  text-align: center;
+  width: 100%;
+}
+.Idea1 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  padding: 50px 0px;
+}
+.Idea1-left-container {
+  width: 50%;
+  padding: 3vw;
+}
+.Idea1-left-container h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-size: 4vw;
+  color: #4700ff;
+  text-align: center;
+  width: 100%;
+}
+.Idea1-left-container p {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-size: 3vw;
+  color: #0e0e0e;
+  text-align: justify;
+  width: 100%;
+  line-height: 3.5vw;;
+}
+.Idea1-right-container {
+  width: 50%;
+  text-align: right;
+}
+.Idea1-right-container img {
+  width: 100%;
+  /* height: 650px; */
+  object-fit: contain;
+}
+.Idea2 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  padding: 50px 0px;
+}
+.Idea2-left-container {
+  width: 50%;
+}
+.Idea2-left-container img {
+  width: 100%;
+  object-fit: contain;
+}
+.Idea2-right-container {
+  width: 50%;
+  padding: 3vw;
+}
+.Idea2-right-container h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-size: 4vw;
+  color: #4700ff;
+  text-align: center;
+  width: 100%;
+}
+.Idea2-right-container p {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-size: 3vw;
+  color: #0e0e0e;
+  text-align: justify;
+  width: 100%;
+  line-height: 3.5vw;;
+}
+
+@media only screen and (max-width: 450px) {
+  .activatr {
+  --font-size-5xl: 1.85vw;
+  }
+}

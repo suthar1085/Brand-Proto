@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kanit: Kanit;
+  --font-rubik: Rubik;
+  --font-nothing-you-could-do: "Nothing You Could Do";
+  --font-long-cang: "Long Cang";
+  --font-lato: Lato;
+  --font-ruluko: Ruluko;
+  --font-rubik-one: "Rubik One";
+  --font-kavivanar: Kavivanar;
+  --font-livvic: Livvic;
+
+  /* font sizes */
+  --font-size-17xl: 2.35vw;
+  --font-size-5xl: 1.35vw;
+  --font-size-45xl: 4vw;
+  --font-size-21xl: 2.5rem;
+  --font-size-81xl: 6.25vw;
+  --font-size-13xl: 2.3vw;
+  --font-size-29xl: 3vw;
+  --font-size-31xl: 3.13vw;
+  --font-size-sm: 0.88rem;
+  --font-size-3xs-3: 1vw;
+  --font-size-51xl: 5.5vw;
+  --font-size-base: 1.5vw;
+
+  /* Colors */
+  --color-deeppink-100: #ff018f;
+  --color-deeppink-200: #ff007f;
+  --color-blue-100: #5e20ff;
+  --color-blue-200: #4700ff;
+  --color-darkviolet: #9e04c5;
+  --color-blueviolet: #9747ff;
+  --color-gainsboro-100: rgba(217, 217, 217, 0);
+  --color-black: #000;
+  --color-white: #fff;
+  --gray-3: #828282;
+  --color-gray-100: #212121;
+  --color-gray-200: #0e0e0e;
+  --color-gray-300: rgba(255, 255, 255, 0.73);
+  --color-goldenrod: #f3cb3b;
+  --color-darkblue-100: #3d159f;
+  --color-darkblue-200: rgba(61, 21, 159, 0.44);
+  --color-yellowgreen: #91d300;
+  --gray-4: #bdbdbd;
+
+  /* Gaps */
+  --gap-5xs-8: 0.49rem;
+
+  /* Paddings */
+  --padding-9xs-1: 0.19rem;
+  --padding-5xl-8: 1.55rem;
+  --padding-5xs-7: 0.48rem;
+  --padding-6xs-2: 0.39rem;
+  --padding-11xs-5: 0.09rem;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-31xl: 50px;
+  --br-mini: 1vw;
+  --br-11xl: 30px;
+  --br-58xl-5: 77.5px;
+  --br-11xs: 2px;
+  --br-xl: 1.5vw;
+  --br-3xs: 10px;
+}
